@@ -12,7 +12,6 @@ Sou formada como técnica em Desenvolvimento de Sistemas e atualmente cursando C
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunesGrazi&layout=compact&theme=dark)
 
-
 ## 🛠️ Tecnologias que utilizo
 
 ![Blogs](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,11 +19,6 @@ Sou formada como técnica em Desenvolvimento de Sistemas e atualmente cursando C
 ![Blogs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Blogs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Blogs](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🔧 Projetos Recentes
-
-- [Projeto 1](https://github.com/seu-usuario/projeto1) - Descrição breve
-- [Projeto 2](https://github.com/seu-usuario/projeto2) - Descrição breve
 
 ---
 
