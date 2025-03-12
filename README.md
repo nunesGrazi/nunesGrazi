@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou Grazielli Godoy 👋
 
-<!--
-**nunesGrazi/nunesGrazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+## 💡 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formada como técnica em Desenvolvimento de Sistemas e atualmente cursando Ciência da Computação. 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grazielli-godoy-8926a8263/)
+
+## 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunesGrazi&layout=compact&theme=gruvbox_light)
+
+
+## 🛠️ Tecnologias que utilizo
+
+![Blogs](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Blogs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Blogs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Blogs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blogs](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🔧 Projetos Recentes
+
+- [Projeto 1](https://github.com/seu-usuario/projeto1) - Descrição breve
+- [Projeto 2](https://github.com/seu-usuario/projeto2) - Descrição breve
+
+---
+
+🌟 Sempre em busca de desafios e aprendizado! Obrigada por visitar meu perfil.
+
+
