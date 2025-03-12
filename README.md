@@ -10,7 +10,7 @@ Sou formada como técnica em Desenvolvimento de Sistemas e atualmente cursando C
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunesGrazi&layout=compact&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunesGrazi&layout=compact&theme=dark)
 
 
 ## 🛠️ Tecnologias que utilizo
