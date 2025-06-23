@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub!
 
 ## 💡 Sobre Mim
 
-Sou formada como técnica em Desenvolvimento de Sistemas e atualmente cursando Ciência da Computação. 
+Sou formada como técnica em Desenvolvimento de Sistemas pela ETEC São Paulo e atualmente cursando Ciência da Computação pela Unisantos. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grazielli-godoy-8926a8263/)
 
